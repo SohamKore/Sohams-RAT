@@ -6,8 +6,6 @@
 #                     Sohams RAT
 
 A multifunctional Telegram based Android RAT  without port forwarding.
-- VIDEO TUTORIALS  AVIALBLE HERE
-https://shivaya-dav.github.io/dogeweb/
 ## Panel Screenshot
 ![Logo](https://999xprofit.com/dogs/scr.jpg)
 ## Features
@@ -92,25 +90,8 @@ NOTE : USE APK V1 AND V2 WITH OLD SERVER CODE
  - now you can monitor all device who will install the apk
 ![App Screenshot](https://999xprofit.com/dogs/15.jpg)
 
-### ❤️Thank you Supporters❤️
-[![Stargazers repo roster for @shivaya-dav/DogeRat](https://reporoster.com/stars/dark/shivaya-dav/DogeRat)](https://github.com/shivaya-dav/DogeRat/stargazers)
-## 🔗 CONTACT
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/shivayadavv)
-
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/shivaya.dav)
-
 
 ## Disclaimer
 
 Devolper Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
 Dogerat is built for both Educational and Internal use ONLY.
-- Make sure the instagram username is @shvaya.dav and Telegram shivaya_dav beware from scam
-
-
-
-## ALCOHOL SUPPORT 
-!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
-- Bitcoin
-- 1LeLwYyDHu51875aenZaNcEnMrEbHwEKJd
-- Usdt trc20
-- TWX456AoupoYKwCYUKk3ZMWJtNJZRRHnrp
